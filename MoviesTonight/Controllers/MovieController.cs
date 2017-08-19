@@ -5,6 +5,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 
 using MoviesTonight.Models;
+using MoviesTonight.Support;
 
 namespace MoviesTonight.Controllers
 {
@@ -12,14 +13,16 @@ namespace MoviesTonight.Controllers
     public class MovieController : Controller
     {
         // GET api/values/5
-        [HttpGet("{id}")]
-        public MovieInfo Get(int id)
+        [HttpGet("{name}")]
+        public IActionResult Get(string name)
         {
-            var aMovie = new MovieInfo();
-            aMovie.movieName = "asda";
-            aMovie.discription = "sdadad";
-            aMovie.pictureUrl = "asdada";
-            return aMovie;
+            var aMovie = BasicInfo.Instance.movies.Find(x => x.movieName == name);
+
+            if(aMovie == null){
+                return NotFound();
+            }
+
+            return new ObjectResult(aMovie);
         }
 
     }

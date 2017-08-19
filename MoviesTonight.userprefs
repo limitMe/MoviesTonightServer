@@ -1,9 +1,7 @@
 ﻿<Properties StartupConfiguration="{0E361AC1-88BA-4850-A8B6-EDE7B3AF256F}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="MoviesTonight/Models/MovieInfo.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MoviesTonight/Startup.cs">
     <Files>
-      <File FileName="MoviesTonight/Startup.cs" Line="33" Column="1" />
-      <File FileName="MoviesTonight/Controllers/ValuesController.cs" Line="15" Column="10" />
-      <File FileName="MoviesTonight/Models/MovieInfo.cs" Line="1" Column="1" />
+      <File FileName="MoviesTonight/Startup.cs" Line="23" Column="10" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />

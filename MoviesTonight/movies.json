@@ -3,5 +3,145 @@
     "movieName": "aaa",
     "discription": "balaba",
     "pictureUrl": "kakak"
+  },
+  {
+    "movieName": "Criminal Minds",
+    "discription": "Criminal Minds is an American police procedural crime drama television series created by Jeff Davis, and is the original show in the Criminal Minds franchise. It premiered on September 22, 2005, on the broadcast network CBS and October 5, 2005, on CTV. The series is produced by The Mark Gordon Company, in association with CBS Television Studios and ABC Studios (a subsidiary of The Walt Disney Company). Criminal Minds is set primarily at the FBI's Behavioral Analysis Unit (BAU) based in Quantico, Virginia. In accordance with the show's plot, Criminal Minds differs from many procedural dramas by focusing on profiling the criminal, called the unsub or \"unknown subject\", rather than the crime itself.",
+    "pictureUrl": "http://47.91.45.130/files/cm.jpg"
+  },
+  {
+    "movieName": "Hannibal",
+    "discription": "Hannibal is an American psychological thriller–horror television series developed by Bryan Fuller for NBC. The series is based on characters and elements appearing in Thomas Harris' novels Red Dragon and Hannibal, with focus on the relationship between FBI special investigator Will Graham (Hugh Dancy) and Dr. Hannibal Lecter (Mads Mikkelsen), a forensic psychiatrist destined to become Graham's most cunning enemy.",
+    "pictureUrl": "http://47.91.45.130/files/Hannibal.jpg"
+  },
+  {
+    "movieName": "Man Up!",
+    "discription": "Man Up! is an American sitcom that aired on ABC from October 18 to December 6, 2011. On December 8, ABC announced the series had been cancelled due to low ratings. Only 8 episodes were aired on television, though all 13 episodes were available online. The episodes remained online through the end of January 2012, when they were removed from ABC's website. As of March 2014, the episodes were available on the free portion of the Hulu website.",
+    "pictureUrl": "http://47.91.45.130/files/mu.jpg"
+  },
+  {
+    "movieName": "Hardcore Pawn",
+    "discription": "Hardcore Pawn is an American reality television series produced by RDF USA (later Zodiak USA) and Richard Dominick Productions for truTV about the day-to-day operations of American Jewelry and Loan, a family-owned and operated Pawn shop and broker in Detroit, Michigan's 8 Mile Road corridor.",
+    "pictureUrl": "http://47.91.45.130/files/hp.jpg"
+  },
+  {
+    "movieName": "American Pickers",
+    "discription": "American Pickers is an American reality television series that premiered on January 18, 2010 on the History channel, produced by A&E Television Networks in collaboration with Cinefix Productions.",
+    "pictureUrl": "http://47.91.45.130/files/ap.jpg"
+  },
+  {
+    "movieName": "Adam Hills Tonight",
+    "discription": "Adam Hills Tonight, formerly known as Adam Hills in Gordon Street Tonight, is an Australian television interview show on ABC1 hosted by comedian Adam Hills and co-starring comedians Hannah Gadsby and Dave O'Neil. The show features celebrity guests, comedy and live music. The show has now ceased production with the 2013 series which ended in August 2013 being the last. On 28 November 2013, Adam Hills announced that the show was ending as he feared \"running out of funny\" and that trying to combine careers in Australia and the UK at the same time was proving to be impractical.",
+	"pictureUrl": "http://47.91.45.130/files/aht.jpg"
+  },
+  {
+    "movieName": "Would I Lie to You?",
+    "discription": "The show was presented by Angus Deayton in 2007 and 2008 and by Rob Brydon (who had appeared as a guest panellist in the second series) from 2009 onwards.[2] The team captains are comedians David Mitchell and Lee Mack. As revealed by Lee Mack on Alan Carr: Chatty Man on 19 September 2014, Alan Carr was a team captain in the pilot but subsequently turned down an offer to appear on later shows. For each show, two celebrity guests join each of the team captains. The teams compete as each player reveals unusual facts and embarrassing personal tales for the evaluation of the opposing team. Some of these are true; some are not, and panellists’ task is to decide which is which.",
+    "pictureUrl": "http://47.91.45.130/files/wilty.jpg"
+  },
+  {
+    "movieName": "The Thick of It",
+    "discription": "The Thick of It is a British comedy television series that satirises the inner workings of modern British government. It was first broadcast for two short series on BBC Four in 2005, initially with a small cast focusing on a government minister, his advisers and their party's spin-doctor. The cast was significantly expanded for two hour-long specials to coincide with Christmas and Gordon Brown's appointment as prime minister in 2007, which saw new characters forming the opposition party added to the cast. These characters continued when the show switched channels to BBC Two for its third series in 2009. A fourth series about a coalition government was broadcast in 2012, with the last episode transmitted on 27 October 2012. In a 2012 interview, series creator Armando Iannucci said the fourth series of the programme would probably be its last.",
+    "pictureUrl": "http://47.91.45.130/files/ap.jpg"
+  },
+  {
+    "movieName": "The Thick of It",
+    "discription": "The Thick of It is a British comedy television series that satirises the inner workings of modern British government. It was first broadcast for two short series on BBC Four in 2005, initially with a small cast focusing on a government minister, his advisers and their party's spin-doctor. The cast was significantly expanded for two hour-long specials to coincide with Christmas and Gordon Brown's appointment as prime minister in 2007, which saw new characters forming the opposition party added to the cast. These characters continued when the show switched channels to BBC Two for its third series in 2009. A fourth series about a coalition government was broadcast in 2012, with the last episode transmitted on 27 October 2012. In a 2012 interview, series creator Armando Iannucci said the fourth series of the programme would probably be its last.",
+    "pictureUrl": "http://47.91.45.130/files/ttoi.jpg"
+  },
+  {
+    "movieName": "Arrow",
+    "discription": "Arrow is an American superhero television series developed by writer/producers Greg Berlanti, Marc Guggenheim, and Andrew Kreisberg. It is based on the DC Comics character Green Arrow, a costumed crime-fighter created by Mort Weisinger and George Papp. It premiered in North America on The CW on October 10, 2012, with international broadcasting taking place in late 2012. Primarily filmed in Vancouver, British Columbia, Canada, the series follows billionaire playboy Oliver Queen (Stephen Amell), who, five years after being stranded on a hostile island, returns home to fight crime and corruption as a secret vigilante whose weapon of choice is a bow and arrow.",
+    "pictureUrl": "http://47.91.45.130/files/arrow.jpg"
+  },
+  {
+    "movieName": "The Following",
+    "discription": "The Following is an American television drama series created by Kevin Williamson, and jointly produced by Outerbanks Entertainment and Warner Bros. Television. The first season follows former FBI agent Ryan Hardy (Kevin Bacon) trying to help recapture serial killer Joe Carroll, while Carroll's assembled cult captures Carroll's son from his ex-wife and sends Carroll's messages to the world. The second season introduces Hardy's niece, who provides help in finding Carroll after his fake death while also dealing with a new cult.",
+    "pictureUrl": "http://47.91.45.130/files/tf.jpg"
+  },
+  {
+    "movieName": "The Block Sky High",
+    "discription": "The seventh season of Australian reality television series The Block, titled The Block: Sky High, premiered on Sunday, 12 May 2013 at 6:30 pm on the Nine Network. Scott Cam (host) and Shelley Craft (Challenge Master) returned from the previous season, as did the three judges: Neale Whitaker, Shaynna Blaze and Darren Palmer. Production for the series returned to Melbourne, which was the location for the fourth and fifth seasons, in the suburb of South Melbourne.",
+    "pictureUrl": "http://47.91.45.130/files/tbsh.jpg"
+  },
+  {
+    "movieName": "Extreme Frontiers: Canada",
+    "discription": "It shows the extreme nature in Canada.",
+    "pictureUrl": "http://47.91.45.130/files/efc.jpg"
+  },
+  {
+    "movieName": "Borgen",
+    "discription": "Borgen (Danish pronunciation: [ˈbɒːˀwən]) is a Danish political drama television series created by Adam Price. It tells how Birgitte Nyborg, a politician, becomes the first female Prime Minister of Denmark against all the odds. Borgen is the informal name of Christiansborg Palace and is where the three branches of Danish government reside: the Parliament, the Prime Minister's Office, and the Supreme Court.",
+    "pictureUrl": "http://47.91.45.130/files/borgen.jpg"
+  },
+  {
+    "movieName": "World News Australia",
+    "discription": "The World News began as a half-hour bulletin, first seen in 1980, soon after the launch of the then-named Channel 0/28. George Donikian was the service's first presenter; veteran newsreader Mary Kostakidis began reading the weekend news in 1986. The network's long-running investigative documentary series Dateline started in 1984. SBS World News is the news service of the Special Broadcasting Service. Its flagship nightly bulletin is broadcast at 6.30pm on SBS with additional weeknight 'late' bulletins at 10.30pm on SBS.",
+    "pictureUrl": "http://47.91.45.130/files/wna.jpg"
+  },
+  {
+    "movieName": "Mr & Mrs Murder",
+    "discription": "Mr & Mrs Murder is an Australian crime comedy television series produced by FremantleMedia Australia in association with Bravado Productions which premiered on Network Ten on Wednesday 20 February 2013 at 8:30 p.m. The 13-part murder mystery series follows the adventures of married couple Nicola and Charlie Buchanan, who run an industrial cleaning business. They specialise in crime scenes and, using this experience, they become amateur sleuths.",
+    "pictureUrl": "http://47.91.45.130/files/mmm.jpg"
+  },
+  {
+    "movieName": "The Good Wife",
+    "discription": "The series focuses on Alicia Florrick (Margulies), whose husband Peter (Noth), the former Cook County, Illinois State's Attorney, has been jailed following a notorious political corruption and sex scandal. After having spent the previous thirteen years as a stay-at-home mother, Alicia returns to the workforce as a litigator to provide for her two children.",
+    "pictureUrl": "http://47.91.45.130/files/tgw.jpg"
+  },
+  {
+    "movieName": "Ten Late News",
+    "discription": "Ten Eyewitness News: Late is an Australian late night television news program, broadcast on Network Ten and it aired at 10.30pm on weeknights. The bulletin was hosted by Hugh Riminton with sport presented by Victoria Murphy.",
+    "pictureUrl": "http://47.91.45.130/files/tnn.jpg"
+  },
+  {
+    "movieName": "Escape to the Country",
+    "discription": "Escape to the Country is a British daytime television property-buying programme, created by Talkback Thames which premieres on network BBC One and is repeated on BBC Two, and airs internationally in syndication.",
+    "pictureUrl": "http://47.91.45.130/files/ettc.jpg"
+  },
+  {
+    "movieName": "Fantasy Homes Down Under",
+    "discription": "Groups of families are flown to Australia or New Zealand. Each episode focuses on one family. The families explore accommodation, lifestyle and employment and each family member has to vote on each item. There is also a sequence where the family are given a rundown of the cost of living in Australia or New Zealand as compared to the UK, and they see what estate agents think they could get for their UK home. At the end of the program the families have to make an overall vote.",
+    "pictureUrl": "http://47.91.45.130/files/wdu.jpg"
+  },
+  {
+    "movieName": "Futurama",
+    "discription": "Futurama is an American animated science fiction comedy series created by Matt Groening for the Fox Broadcasting Company. The series follows the adventures of a late-20th-century New York City pizza delivery boy, Philip J. Fry, who, after being unwittingly cryogenically frozen for one thousand years, finds employment at Planet Express, an interplanetary delivery company in the retro-futuristic 31st century. The series was envisioned by Groening in the mid-1990s while working on The Simpsons; he later brought David X. Cohen aboard to develop storylines and characters to pitch the show to Fox.",
+    "pictureUrl": "http://47.91.45.130/files/futurama.jpg"
+  },
+  {
+    "movieName": "The Cleveland Show",
+    "discription": "The Cleveland Show is an American animated sitcom created by Seth MacFarlane, Richard Appel, and Mike Henry for the Fox Broadcasting Company as a spin-off of Family Guy. The series centers on the Browns and Tubbs, two dysfunctional families consisting of parents Cleveland Brown and Donna Tubbs and their children Cleveland Brown, Jr., Roberta Tubbs, and Rallo Tubbs. Similar to Family Guy, it exhibits much of its humor in the form of cutaway gags that often lampoon American culture. The series is rated TV-14.",
+    "pictureUrl": "http://47.91.45.130/files/tcf.jpg"
+  },
+  {
+    "movieName": "Burn Notice",
+    "discription": "Burn Notice is an American television series created by Matt Nix which originally aired on the USA Network from June 28, 2007 to September 12, 2013. The show stars Jeffrey Donovan, Gabrielle Anwar, Bruce Campbell, Sharon Gless, and beginning in Season 4, Coby Bell.",
+    "pictureUrl": "http://47.91.45.130/files/bn.jpg"
+  },
+  {
+    "movieName": "Blue Bloods",
+    "discription": "Blue Bloods is an American police procedural drama series that airs on CBS. The series is filmed on location in New York City with occasional references to nearby suburbs. The series debuted on September 24, 2010, with episodes airing on Fridays following CSI: NY before being moved to Wednesdays at 10:00 p.m. Eastern and Pacific time and 9:00 p.m. Central and Mountain time for a four-week tryout. After four weeks, it returned to its original Friday 10:00 p.m. Eastern time slot, where it has remained since. On March 23, 2017, CBS renewed the series for an eighth season.",
+    "pictureUrl": "http://47.91.45.130/files/bb.jpg"
+  },
+  {
+    "movieName": "The Killing",
+    "discription": "It shows the extreme nature in Canada.",
+    "pictureUrl": "http://47.91.45.130/files/tk.jpg"
+  },
+  {
+    "movieName": "Be Your Own Boss",
+    "discription": "You can make as much or more as your income right now and you can build it up so that when you do make the leap, you aren’t stressed wondering how you will pay your bills. You can make more money building your own business and be in charge of your own raises. You can start building your own goals instead of working on someone else’s goals every day when you go to your day job. You don’t have to wait for your boss’s approval to make a change.",
+    "pictureUrl": "http://47.91.45.130/files/byob.jpg"
+  },
+  {
+    "movieName": "The PItch",
+    "discription": "The Pitch is an unscripted series from AMC produced by Studio Lambert that goes behind the scenes on the pressure on America's top creative ad agencies competing to pitch a new account. Each week the two agencies go head-to-head in a presentation known as The Pitch, with only seven days to prepare.",
+    "pictureUrl": "http://47.91.45.130/files/tp.jpg"
+  },
+  {
+    "movieName": "Russell Howard's Good News",
+    "discription": "Russell Howard's Good News was a British comedy and topical news show. Hosted by comedian Russell Howard, it offered his commentary on the news of the week through mostly stand-up, along with sketches and humorous video clips, whilst also having guest appearances from people who have been featured in the media recently. It was made by independent production company Avalon Television and produced by Mark Iddon, Robyn O'Brien and David Howarth. Repeats of earlier episodes are also broadcast on Comedy Central, Dave and W. The show also made an appearance on Children in Need 2011 and Red Nose Day 2013, featuring a number of sketches from recent episodes, as well as a new segment of "It's Not All Doom and Gloom". In February 2013, users of Digital Spy voted Good News as the Best Show Ever on BBC Three in the run up to the channel's tenth anniversary.",
+    "pictureUrl": "http://47.91.45.130/files/rhgn.jpg"
   }
  ]

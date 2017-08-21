@@ -1,5 +1,5 @@
 ﻿<Properties StartupConfiguration="{0E361AC1-88BA-4850-A8B6-EDE7B3AF256F}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="MoviesTonight/Startup.cs">
+  <MonoDevelop.Ide.Workbench>
     <Files>
       <File FileName="MoviesTonight/Startup.cs" Line="23" Column="10" />
     </Files>
